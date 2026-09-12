@@ -43,6 +43,8 @@ Research-grade utilities for working with Apple device vulnerabilities and maint
 | [pi-pico-checkm8-mod](https://github.com/smartmaster35rus-dev/pi-pico-checkm8-mod) | Pi Pico Checkm8 research for A5 — DFU/PWNDFU |
 | [checkm8-a5](https://github.com/smartmaster35rus-dev/checkm8-a5) | Arduino Checkm8 vulnerability research (A5) |
 | [MacOS-EFI-irbis-NB125](https://github.com/smartmaster35rus-dev/MacOS-EFI-irbis-NB125) | EFI/OpenCore for Irbis NB125 compatibility |
+| [MacOS-EFI-MSI-GF75-M0nterey](https://github.com/smartmaster35rus-dev/MacOS-EFI-MSI-GF75-Thin-10UC) | EFI/OpenCore for MSI GF75 compatibility |
+| [MacOS-EFI-MSI-GF75-S0noma](https://github.com/smartmaster35rus-dev/MacOS-EFI-MSI-GF75-Thin-10UC) | EFI/OpenCore for MSI GF75 compatibility |
 | [iPhone-iPad-dev-system-file](https://github.com/smartmaster35rus-dev/iPhone-iPad-dev-system-file) | iPad system string modification research |
 | [ESP8266_Wi-Fi_Repeater](https://github.com/smartmaster35rus-dev/ESP8266_Wi-Fi_Repeater) | ESP8266 Wi-Fi repeater firmware |
 
