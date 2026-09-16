@@ -23,7 +23,7 @@ Research-grade utilities for working with Apple device vulnerabilities and maint
 | [A12 Activator Platinum](https://github.com/smartmaster35rus-dev/A12-Activator-Platinum-win) | Win / Mac | Device activation research toolkit (A12+, iOS 13–26+) |
 | [A5 Activator Platinum](https://github.com/smartmaster35rus-dev/A5-Activator-Platinum-win) | Win / Mac | Legacy device toolkit (A5/A6, iOS 7–10.3.4) |
 | [A12-13 Ramdisk Toolkit](https://github.com/smartmaster35rus-dev/A12-13-Ramdisk-Erase-tool-Platinum-win) | Win / Mac | Ramdisk recovery & diagnostics (A12–A13) |
-| [Ramdisk Research Catalog](https://github.com/smartmaster35rus-dev/Ramdisk-Bypass-Platinum-mac) | Mac | Ramdisk vulnerability research catalog |
+| [Ramdisk Research Catalog](https://github.com/smartmaster35rus-dev/ramdisk-A12-13) | GitHub | Ramdisk images catalog (A12–A13) |
 | [MDM Research Utility](https://github.com/smartmaster35rus-dev/MDM-Bypass-Platinum-win) | Win / Mac | MDM profile research (iOS 7–26+) |
 | [iCloud Visibility Tool](https://github.com/smartmaster35rus-dev/Hide-iCloud-A12-Platinum-win) | Win / Mac | iCloud account visibility research (A12+) |
 | [iCloud Fix Sync](https://github.com/smartmaster35rus-dev/iCloud-Fix-Sync-Platinum-win) | Win / Mac | Apple ID sign-in diagnostics & repair |
@@ -54,10 +54,11 @@ Research-grade utilities for working with Apple device vulnerabilities and maint
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=smartmaster35rus-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartmaster35rus-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+| | |
+|:---:|:---:|
+| <img height="170" src="https://github-readme-stats.vercel.app/api?username=smartmaster35rus-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> | <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartmaster35rus-dev&layout=compact&theme=tokyonight&hide_border=true" /> |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smartmaster35rus-dev&theme=tokyonight&hide_border=true" alt="Streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=smartmaster35rus-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
